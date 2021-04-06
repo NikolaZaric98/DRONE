@@ -1,0 +1,32 @@
+command
+
+takeoff
+land
+
+KRETANJE (x=20-500)
+--------------
+up x
+down x
+left x
+right x
+forward x
+back x
+
+ROTACIJA (x=1-3600)
+---------------
+cw x
+ccw x
+
+////////////////////////////////////////////
+READ KOMANDE
+
+speed?
+battery?
+time?
+height?
+temp?
+attitude?
+baro?
+acceleration?
+tof?
+wifi?
